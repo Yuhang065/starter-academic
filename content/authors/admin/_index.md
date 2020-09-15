@@ -22,10 +22,10 @@ education:
   courses:
   - course: MSE in Civil and Systems Engineering
     institution: Johns Hopkins University
-    year: 2019-2021
+    year: 2021
   - course: B.Eng in Civil Engineering
     institution: Central South University
-    year: 2015-2019
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
