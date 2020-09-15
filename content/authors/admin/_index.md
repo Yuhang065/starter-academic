@@ -32,14 +32,14 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  mailto:yzhan399@jhu.edu  # For a direct email link, use "mailto:test@example.org".
+#- icon: envelope
+# icon_pack: fas
+#  mailto:yzhan399@jhu.edu  # For a direct email link, use "mailto:test@example.org".
 
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yuhang-zhang-67a665196
-  
+
 - icon: github
   icon_pack: fab
   link: https://github.com/Yuhang065
