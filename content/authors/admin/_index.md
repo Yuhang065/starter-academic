@@ -34,7 +34,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  mailto:yzhan399@jhu.edu  # For a direct email link, use "mailto:test@example.org".
+  mailto: yzhan399@jhu.edu  # For a direct email link, use "mailto:test@example.org".
 
 - icon: linkedin
   icon_pack: fab
